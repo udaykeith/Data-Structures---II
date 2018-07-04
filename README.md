@@ -3,7 +3,9 @@ Searching and Sorting
 
 **Resources**
 
-Grokking Alogrithms by Aditya Bhargava is a great resource for Data Structures and Searching & Sorting Algos. Also the code is in Python here: https://www.manning.com/books/grokking-algorithms? Look for Source code. 
+- The PPT in Datastructures - I has the slides for today's content. 
+
+- Grokking Alogrithms by Aditya Bhargava is a great resource for Data Structures and Searching & Sorting Algos. Also the code is in Python here: https://www.manning.com/books/grokking-algorithms? Look for Source code. 
 
 **Exercises**
 
